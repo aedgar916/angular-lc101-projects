@@ -1,11 +1,8 @@
 .movies {
     color: rgb(30, 30, 185);
+    font-size: large;
 }
 
 h3 {
     text-align: center;
-}
-
-li {
-    font-size: large;
 }
